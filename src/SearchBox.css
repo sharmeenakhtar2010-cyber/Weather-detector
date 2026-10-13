@@ -1,0 +1,25 @@
+
+body {
+    background-color: white;
+    margin: 0;
+}
+
+#root {
+    background-color: white;
+    min-height: 100vh;
+}
+
+.SearchBox {
+    background-color: white;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    box-sizing: border-box;
+}
+
+.SearchBox input {
+    color: black !important;
+    -webkit-text-fill-color: black !important;
+    background-color: white !important;
+}
